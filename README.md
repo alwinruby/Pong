@@ -12,3 +12,4 @@ I have not just copied and pasted but written out all code to understand it.
 4. Clean up the Code
 5. Bouncing the ball
 6. Circles and drawing details
+7. 2D Motion, Paddle
