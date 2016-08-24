@@ -14,3 +14,4 @@ I have not just copied and pasted but written out all code to understand it.
 6. Circles and drawing details
 7. 2D Motion, Paddle
 8. Ball Reset and collision
+9. AI for paddle and scoring
