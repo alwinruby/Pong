@@ -13,3 +13,4 @@ I have not just copied and pasted but written out all code to understand it.
 5. Bouncing the ball
 6. Circles and drawing details
 7. 2D Motion, Paddle
+8. Ball Reset and collision
