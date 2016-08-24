@@ -20,3 +20,5 @@ I have not just copied and pasted but written out all code to understand it.
 
 
 Use the mouse to control  the player 1 paddle.  First to three wins.
+
+All you need to do is download game.html and open in a web browser and play.
