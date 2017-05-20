@@ -19,6 +19,10 @@ I have not just copied and pasted but written out all code to understand it.
 11. Mouse click and draw next
 
 
+
 Use the mouse to control  the player 1 paddle.  First to three wins.
 
-All you need to do is download game.html and open in a web browser and play.
+
+###To play the classic game
+
+Clone the repository and open game.html and open in a web browser and play.  The mouse moves the paddle.
